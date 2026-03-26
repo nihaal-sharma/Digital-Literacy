@@ -1,1 +1,12 @@
-
+* Do's
+Curate Your Stack: Share snippets of code or project milestones to build a "living resume."
+Verify Before Sharing: Fact-check technical or campus news to maintain your status as a reliable peer leader.
+Use "The Billboard Test": Only post what you’d be comfortable seeing on a giant billboard outside your college gate.
+Audit Tagged Photos: Regularly check what others post of you; your digital shadow is cast by your friends too.
+Engage Meaningfully: Comment on industry trends with insightful questions rather than generic "great post!" text.
+* Don'ts
+Don't Vent Upward: Never post frustrations regarding professors or specific university policies publicly.
+Don't Over-Tag: Avoid tagging high-profile mentors or recruiters in irrelevant or casual posts.
+Don't Blur Lines: Keep your professional LinkedIn presence strictly separate from your casual "finsta" or private accounts.
+Don't Ignore Privacy Updates: Never assume "Private" stays private; platform API changes can expose old data.
+Don't Plagiarize Content: Avoid sharing others' project work or code without clear attribution and permission.
