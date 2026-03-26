@@ -1,1 +1,7 @@
-
+A significant digital communication breakdown often occurs during "Reply-All" cascades in large organizations.
+Imagine a student representative sending a sensitive grievance report to a department head, but accidentally hitting "Reply-All," broadcasting the complaint to 500+ peers.
+The immediate result is a breach of confidentiality and a "notification storm" that disrupts productivity.
+More subtly, it creates a culture of public shaming rather than private resolution.
+To prevent this, the sender should have used BCC (Blind Carbon Copy) for mass announcements and double-checked the recipient list before hitting send. 
+Furthermore, professional platforms should be configured with a "5-second undo" delay.
+In this scenario, a quick retraction followed by a formal apology for the technical oversight would have been the only way to mitigate the reputational damage to the sender’s professionalism.
