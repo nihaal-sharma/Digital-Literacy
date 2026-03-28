@@ -5,7 +5,7 @@ Name: Nihaal Sharma
 
 Registration Number: 25BCE10296
 
-Branch: CSE (AI & ML)
+Branch: CSE (core)
 
 Course: Digital Literacy (CSE0001)
 
