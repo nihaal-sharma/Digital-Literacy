@@ -15,7 +15,7 @@ This project documents my first-year journey as a B.Tech (core) student. I have 
 Module summaries
 Task 1: Digital Literacy Infographics (Canva) I designed visual guides covering research skills, critical thinking, and professional etiquette to help my batchmates navigate the digital world safely and effectively.
 
-Task 2: Professional Online Profiles I established my professional identity by setting up GitHub, LinkedIn, and Kaggle accounts to document my four-year journey in AI and Machine Learning.
+Task 2: Professional Online Profiles I established my professional identity by setting up GitHub, LinkedIn, and Kaggle accounts to document my four-year journey in computer science.
 
 Task 3: Technical Practice & Collaboration I completed Python coding challenges and created a Google Form quiz to test my peers digital awareness and practice real-time data management.
 
